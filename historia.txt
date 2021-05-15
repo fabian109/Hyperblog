@@ -6,4 +6,4 @@ Mañana nos enfocaremos en su vida laboral.
 
 Todo esto es para el curso de Git de freddy
 
-Fabian tiene 27 años y nacio en bogota
+Fabian tiene 27 años y nacio en bogota, pero aun no puede editar esto D:
