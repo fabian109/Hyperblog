@@ -8,4 +8,4 @@ Todo esto es para el curso de Git de freddy
 
 Fabian tiene 27 años y nacio en bogota, pero aun no puede editar esto D:
 
-Borre el origin master. Espero sirva
+Hago un cambio para contribuir :/
