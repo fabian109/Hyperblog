@@ -9,3 +9,6 @@ Todo esto es para el curso de Git de freddy
 Fabian tiene 27 años y nacio en bogota, pero aun no puede editar esto D:
 
 Hago un cambio para contribuir. Quite las credenciales del administrador de credenciales para github, deberia funcionar. De paso arregla el problema de que admite cambios cuando estoy en otra cuenta c:
+
+
+Master 1
