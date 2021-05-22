@@ -10,6 +10,7 @@ Este curso veremos de todo:
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las múltiples personalidades de Freddy
+* Creado por el Fabián
 
 Y como amable recordatorio **este readme.md es un chiste**. Diseñado ara el ejemplo :3
 
