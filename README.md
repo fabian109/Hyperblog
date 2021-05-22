@@ -12,6 +12,8 @@ Este curso veremos de todo:
 * Las múltiples personalidades de Freddy
 * Creado por el Fabián
 * Incluye ejemplos en linux
+* Disponible para todas las edades
+
 
 Y como amable recordatorio **este readme.md es un chiste**. Diseñado ara el ejemplo :3
 
